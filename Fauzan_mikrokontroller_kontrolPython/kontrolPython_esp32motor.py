@@ -9,4 +9,4 @@ while True:
     elif myData == "0":  
         arduinoData.write(b'0')
 
-//fauzan ilyas almeyda,23081010188
+#fauzan ilyas almeyda23081010188
